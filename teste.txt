@@ -1,0 +1,2 @@
+Criando txt no GitHub e levando para o intellij
+Atualizando repositorio local
